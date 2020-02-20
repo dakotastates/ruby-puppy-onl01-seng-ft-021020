@@ -1,1 +1,12 @@
-# Add your code here
+class Dog 
+  @@all = []
+  attr_accessor
+  
+  def initialize
+    
+  end
+  
+  def self.all
+    @@all
+  end
+end
